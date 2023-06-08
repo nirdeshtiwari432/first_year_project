@@ -1,5 +1,5 @@
 ''' This program devloped by Nirdesh Tiwari'''
-''' Minor project first year
+''' Minor project first year'''
 print("This is Two variale k -map. Sum of product finder")
 print("Enter it's all positions")
 def check(x):
